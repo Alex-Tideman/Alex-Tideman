@@ -1,7 +1,7 @@
 *** My Apps
 
-<img width="300" alt="LeagueLife2" src="https://user-images.githubusercontent.com/7967403/88698443-ac8bc100-d0cb-11ea-8ed9-2401093a7f9e.jpg">
-<img width="300" alt="LeagueLife1" src="https://user-images.githubusercontent.com/7967403/88698440-ac8bc100-d0cb-11ea-85f1-b6f4e828888d.jpg">
+<img width="300" align="left" width="200" height="400"  alt="LeagueLife2" src="https://user-images.githubusercontent.com/7967403/88698443-ac8bc100-d0cb-11ea-8ed9-2401093a7f9e.jpg">
+<img width="300" align="right" width="200" height="400" alt="LeagueLife1" src="https://user-images.githubusercontent.com/7967403/88698440-ac8bc100-d0cb-11ea-85f1-b6f4e828888d.jpg">
 <img width="300" alt="Budget Lane" src="https://user-images.githubusercontent.com/7967403/88698425-a72e7680-d0cb-11ea-9d2d-5627228db5c0.jpeg">
 <img width="300" alt="Mindscape Search" src="https://user-images.githubusercontent.com/7967403/88698444-ad245780-d0cb-11ea-9b0b-675331264ddc.jpeg">
 <img width="300" alt="My Recipes Cooking" src="https://user-images.githubusercontent.com/7967403/88698448-adbcee00-d0cb-11ea-9add-0316a01b39e9.jpeg">
