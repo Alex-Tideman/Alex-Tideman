@@ -1,7 +1,7 @@
 | Apps        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| My Leage Life     | <img alt="LeagueLife2" src="https://user-images.githubusercontent.com/7967403/88698443-ac8bc100-d0cb-11ea-8ed9-2401093a7f9e.jpg"> | <img width="200" alt="LeagueLife1" src="https://user-images.githubusercontent.com/7967403/88698440-ac8bc100-d0cb-11ea-85f1-b6f4e828888d.jpg">|
-| Budget Lane     | <img alt="Budget Lane" src="https://user-images.githubusercontent.com/7967403/88698425-a72e7680-d0cb-11ea-9d2d-5627228db5c0.jpeg"> |       |
+| My Leage Life     | <img width="300" alt="LeagueLife2" src="https://user-images.githubusercontent.com/7967403/88698443-ac8bc100-d0cb-11ea-8ed9-2401093a7f9e.jpg"> | <img width="300" alt="LeagueLife1" src="https://user-images.githubusercontent.com/7967403/88698440-ac8bc100-d0cb-11ea-85f1-b6f4e828888d.jpg">|
+| Budget Lane     | <img width="300"alt="Budget Lane" src="https://user-images.githubusercontent.com/7967403/88698425-a72e7680-d0cb-11ea-9d2d-5627228db5c0.jpeg"> |       |
 | zebra stripes | are neat      |       |
 
 
