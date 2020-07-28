@@ -1,7 +1,6 @@
-| Tables        | Are           | Cool  |
+| Apps        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | <img width="200" style="float: left; margin-right: 10px; margin-top: 10px;" alt="LeagueLife2" src="https://user-images.githubusercontent.com/7967403/88698443-ac8bc100-d0cb-11ea-8ed9-2401093a7f9e.jpg">
- | <img width="200" style="float: left; margin-right: 10px; margin-top: 10px;" alt="LeagueLife1" src="https://user-images.githubusercontent.com/7967403/88698440-ac8bc100-d0cb-11ea-85f1-b6f4e828888d.jpg">      |
+| My Leage Life     | <img width="200" style="float: left; margin-right: 10px; margin-top: 10px;" alt="LeagueLife2" src="https://user-images.githubusercontent.com/7967403/88698443-ac8bc100-d0cb-11ea-8ed9-2401093a7f9e.jpg"> | <img width="200" style="float: left; margin-right: 10px; margin-top: 10px;" alt="LeagueLife1" src="https://user-images.githubusercontent.com/7967403/88698440-ac8bc100-d0cb-11ea-85f1-b6f4e828888d.jpg">|
 | col 2 is      | centered      |       |
 | zebra stripes | are neat      |       |
 
